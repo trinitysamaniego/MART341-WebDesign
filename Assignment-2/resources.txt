@@ -1,0 +1,9 @@
+What is a directory, and what is its relationship to files?
+Directories are like 'folders'. Where they hold another file and are like a pathway to get to more files.
+
+How are VCS useful?
+The VCS is very helpful in managing and avoiding the kind of problems which could occur when working on the same project at the same time.
+
+Do you have a favorite artistic medium? Why is it your favorite?
+My favortite artisitc medium is mostly paper if I'm drawing. I feel like if it's something for video stuff then I will use something like a camera.
+
